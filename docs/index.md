@@ -1,8 +1,6 @@
-# Welcome to My VitePress Site
+# Joy of Understanding
 
-This is a simple static website generated with VitePress.
+## Machine Learning
+- [DeepSeek](./blog/deepseek_notes.md)
 
-- Fast and modern
-- Great for documentation and blogs
-
-Learn more about **VitePress**: [VitePress Docs](https://vitepress.dev/)
+## GPU Computing

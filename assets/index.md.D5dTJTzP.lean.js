@@ -1,0 +1,1 @@
+import{_ as a,c as n,o as t,ae as i}from"./chunks/framework.BHrE6nLq.js";const u=JSON.parse('{"title":"Joy of Understanding","description":"","frontmatter":{},"headers":[],"relativePath":"index.md","filePath":"index.md"}'),o={name:"index.md"};function r(d,e,s,l,c,h){return t(),n("div",null,e[0]||(e[0]=[i("",4)]))}const m=a(o,[["render",r]]);export{u as __pageData,m as default};
